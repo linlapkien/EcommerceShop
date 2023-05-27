@@ -1,6 +1,7 @@
 //const urlService = `https://jsservices.onrender.com`;
 //const urlService = `http://172.23.34.220:8080`;
-const urlService = `http://localhost:8080`;
+//const urlService = `http://localhost:8080`;
+const urlService = `https://js282.onrender.com`;
 const urlImg = `https://res.cloudinary.com/daacyls4c/image/upload/v1/images`;
 
 const apiTivi = () => {
